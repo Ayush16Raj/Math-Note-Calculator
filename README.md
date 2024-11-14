@@ -38,7 +38,7 @@ This project is a **handwriting recognition calculator app** that emulates iOS 1
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/math-note-calculator.git
+   git clone https://github.com/Ayush16Raj/math-note-calculator.git
    
 2. Open the project in Android Studio.
 3. Set up Firebase for your project by following the Firebase ML Kit setup guide.
